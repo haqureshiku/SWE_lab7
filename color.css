@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(18, 50, 214);
+    color: #db0b0b;
+    font-family: arial;
+    font-size: 12pt;
+    background-image: url("backgroundp1.jpg");
+    background-size: 50%;
+}
+
+body:hover {
+    background-color: rgba(171, 14, 179, 0.226);
+    color: #dae90c;
+    font-family: arial;
+    font-size: 12pt;
+    background-image: url("backgroundp1.jpg");
+    background-size: 50%;
+}
